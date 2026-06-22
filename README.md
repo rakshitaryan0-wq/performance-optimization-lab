@@ -1,12 +1,12 @@
-Inter ID: CITS1620
+* **Inter ID:** CITS1620
 
-Full Name: (NAME-) RAKSHIT ARYAN
+* **Full Name:** (NAME-) RAKSHIT ARYAN
 
-Number of Weeks: One Week
+* **Number of Weeks:** One Week
 
-Project Name: Performance Optimization Lab
+* **Project Name:** Performance Optimization Lab
 
-Project Scope: This project focuses on identifying algorithmic bottlenecks in legacy code and implementing efficient solutions to improve software performance and code readability. It involves analyzing a legacy Node.js data processing script with an O(n^2) time complexity, refactoring it using modern ES6 data structures (specifically the JavaScript Set object) to achieve O(n) linear time complexity, and benchmarking the execution times. A comprehensive technical report is included to detail the methodology, algorithmic changes, and the empirical impact on execution speed.
+* **Project Scope:** This project focuses on identifying algorithmic bottlenecks in legacy code and implementing efficient solutions to improve software performance and code readability. It involves analyzing a legacy Node.js data processing script with an O(n^2) time complexity, refactoring it using modern ES6 data structures (specifically the JavaScript Set object) to achieve O(n) linear time complexity, and benchmarking the execution times. A comprehensive technical report is included to detail the methodology, algorithmic changes, and the empirical impact on execution speed.
 
 ## Technologies Used
 * JavaScript (ES6+)
